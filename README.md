@@ -1,6 +1,6 @@
 # ChatGpt2.1
 chat gpt web app build with nodejs and express on the backend and react on front end
-that is integrated with OpenAi'text-davinci-003' model to generates a random image based on the input text
+that is integrated with OpenAi'text-davinci-003' model to generates a response based on the input text
 
 **Documentation to OpenAi is [here](https://platform.openai.com/docs/introduction)**
 ## Build
